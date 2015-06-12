@@ -1,8 +1,9 @@
 # 目录
 
-* [Part I](part1/README.md)
-    * [Writing is nice](part1/writing.md)
-    * [GitBook is nice](part1/gitbook.md)
-* [Part II](part2/README.md)
-    * [We love feedback](part2/feedback_please.md)
-    * [Better tools for authors](part2/better_tools.md)
+* [介绍](chp1/Introduction.md)
+* [起步](chp2/Getting_Started.md)
+    * [安装Rust](chp2/Installing_Rust.md)
+    * [Hello, World!](chp2/Hello_World.md.md)
+    * [Hello, Cargo](chp2/Hello_Cargo.md)
+
+
