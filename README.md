@@ -2,7 +2,7 @@
 
 rust-book 中文翻译
 
-本项目是对[Rust Book](http://doc.rust-lang.org/book/)的中文翻译。
+本项目是对[Rust Book](http://doc.rust-lang.org/stable/book)的中文翻译。
 
 完整书籍：
 
