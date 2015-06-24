@@ -13,3 +13,7 @@ tuple 元组
 diverges 发散
 
 release channels 版本通道
+
+Borrowing 借用
+
+Lifetime 借用期
